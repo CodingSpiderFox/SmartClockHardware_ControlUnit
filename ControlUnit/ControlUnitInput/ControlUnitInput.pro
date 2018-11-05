@@ -1,4 +1,4 @@
-update=23-Dec-17 6:18:33 PM
+update=Mon 05 Nov 2018 05:50:12 PM EST
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=../../sharedLibs;../ControlUnitInput
@@ -62,3 +60,5 @@ LibName30=atmel
 LibName31=contrib
 LibName32=valves
 LibName33=kicad-IRLZ34/IRLZ34
+[general]
+version=1
